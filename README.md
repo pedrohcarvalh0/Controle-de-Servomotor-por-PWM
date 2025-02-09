@@ -1,4 +1,4 @@
-# Controle de Servomotor com PWM no Raspberry Pi Pico W
+# Controle de Servomotor com PWM no RP2040
 
 Este projeto demonstra como controlar um servomotor utilizando PWM no Raspberry Pi Pico W. O código configura a GPIO 22 para gerar um sinal PWM com frequência de 50Hz (período de 20ms) e posiciona o servo em ângulos específicos utilizando diferentes larguras de pulso.
 
